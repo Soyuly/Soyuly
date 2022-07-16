@@ -4,9 +4,10 @@
 
 # 👨🏻‍💻 I'm hoping to be a backend developer
 #### Hi there 👋 
-#### I'm studying Spring Boot, NodeJs, etc...
+#### I'm studying Spring Boot, NodeJs, etc... <br> 
+#### Currently, I am working on a travel project using a recommendation system and producing a tech blog of Soldoc.
 
-## ⏰ Expreince
+## ⏰ Experience
 1. 멋쟁이사자처럼 9기(2021.03 ~ 2021.09)
 2. 멋쟁이사자처럼 백엔드 운영진(2022.03 ~ ) 
 3. (주)아이케어닥터 Soldoc 인턴(2022.07)
