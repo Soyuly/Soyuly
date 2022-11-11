@@ -2,14 +2,14 @@
 
 
 
-# 👨🏻‍💻 I'm hoping to be a backend developer
+# 👨🏻‍💻 I'm hoping to be a FullStack developer
 #### Hi there 👋 
-#### I'm studying Spring Boot, NodeJs, etc... <br> 
-#### Currently, I am working on a travel project using a recommendation system and producing a tech blog of Soldoc.
+#### I'm studying Flutter, NodeJs, etc... <br> 
+#### Currently, I am working on a guide project using a Flutter And NodeJs based on TDD
 
 ## ⏰ Experience
 1. 멋쟁이사자처럼 9기(2021.03 ~ 2021.09)
-2. 멋쟁이사자처럼 백엔드 운영진(2022.03 ~ ) 
+2. 멋쟁이사자처럼 백엔드 운영진(2022.03 ~ 22.11) 
 3. (주)아이케어닥터 Soldoc 인턴(2022.07)
 
 
