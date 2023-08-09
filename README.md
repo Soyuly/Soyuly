@@ -19,12 +19,14 @@
 1. 경상국립대학교 길찾기 플랫폼, 지누맵(2022. 04 ~ 06, 앱스토어 지도부문 29위): Flutter, NodeJS, GetX, TmapAPI, nginx
 2. 부산국제어린이청소년영화제(2023. 05 ~ 07, https://www.biky.or.kr): Spring Boot, React, Flyway, QueryDsl
 3. 프로모션 체험단 및 리뷰 플랫폼 개발 진행 중(2023. 07 ~ ): Spring Boot, React, Flyway
+4. 굿타임 법원 부동산 경매 플랫폼 개발(2023.08.01 ~ 23.08.09, http://www.goodtimeauction.kr/): React, TypeScript, FastAPI, selenium
 
 ## 주요 개발스택 
 ### Primary Framework, Platforms
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Languages
